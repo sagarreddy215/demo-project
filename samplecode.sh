@@ -1,1 +1,1 @@
-ech "Welcome to demo project"
+ech "Welcome to demo project and get started"
